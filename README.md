@@ -1,1 +1,3 @@
-# BU_MSBA_BA775_A05_Project
+# BU MSBA BA775 A05 Project
+
+Editor: Howard Chang, Ziyuan Li, Renata Halim, Jinisha Kande, Harshil Thakkar
