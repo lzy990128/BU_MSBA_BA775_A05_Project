@@ -1,6 +1,7 @@
 # BU MSBA BA775 A05 Project
 
 Editor: Howard Chang, Ziyuan Li, Renata Halim, Jinisha Kande, Harshil Thakkar
+Tableau Dashboard: https://public.tableau.com/app/profile/ziyuan.li3540/viz/A05-What-Makes-a-Udemy-Top-Selling-Course/Dashboard1?publish=yes
 
 ## Report Summary
 Our report is divided into two sections. In revenue analysis, we found that courses in the IT & Software has the greatest potential to generate more revenue for Udemy. We deduced that customers are willing to pay higher prices for higher quality courses, that SkillsFuture classes are priced higher than the average in each course category, and that some instructors have led more successful courses with more subscribers than others. In ratings analysis, we discovered that some lower-rated courses generate more revenue than higher-rated ones, and we suspect that different population sizes may have impacted average ratings. We also found that average ratings are positively correlated with subscribers and revenue, SkillsFuture courses are rated higher than average, and that there are popular keywords that are used in titles.
